@@ -214,7 +214,7 @@ export default function Index() {
                   <div>
                     <h3 className="text-white font-semibold text-lg mb-2">Телефон</h3>
                     <p className="text-steel-300">+7 (932) 321-51-25</p>
-                    <p className="text-steel-300">+7 (495) 123-45-68</p>
+                    <p className="text-steel-300"></p>
                   </div>
                 </div>
                 
