@@ -225,7 +225,7 @@ export default function Index() {
                   <div>
                     <h3 className="text-white font-semibold text-lg mb-2">Email</h3>
                     <p className="text-steel-300">info@metalworks.ru</p>
-                    <p className="text-steel-300">orders@metalworks.ru</p>
+                    <p className="text-steel-300"></p>
                   </div>
                 </div>
                 
@@ -290,9 +290,7 @@ export default function Index() {
                 <Icon name="Settings" className="text-steel-300" size={24} />
                 <span className="text-xl font-bold text-white">МеталлОбработка</span>
               </div>
-              <p className="text-steel-400">
-                Профессиональные услуги металлообработки с 2010 года
-              </p>
+              <p className="text-steel-400">Профессиональные услуги металлообработки с 2015 года</p>
             </div>
             
             <div>
@@ -311,16 +309,16 @@ export default function Index() {
                 <li>Нержавеющая сталь</li>
                 <li>Алюминиевые сплавы</li>
                 <li>Латунь и бронза</li>
-                <li>Титановые сплавы</li>
+                <li>Углеродистая сталь</li>
               </ul>
             </div>
             
             <div>
               <h4 className="text-white font-semibold mb-4">Контакты</h4>
               <ul className="space-y-2 text-steel-400">
-                <li>+7 (495) 123-45-67</li>
+                <li>+7 (932) 321-51-25</li>
                 <li>info@metalworks.ru</li>
-                <li>г. Москва, ул. Промышленная, 15</li>
+                <li>г. Тюмень, ул. Широтная улица, 8а/256</li>
               </ul>
             </div>
           </div>
