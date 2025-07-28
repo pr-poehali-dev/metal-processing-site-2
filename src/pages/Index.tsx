@@ -35,19 +35,19 @@ export default function Index() {
 
   const portfolio = [
     {
-      image: "/img/686ee30c-cc5a-4b92-b02a-34b3ccda92ef.jpg",
-      title: "Производственный цех",
-      description: "Современное оборудование для металлообработки"
+      image: "/img/b4616b69-28ca-4590-a967-dbbe3ccceb55.jpg",
+      title: "Токарная обработка",
+      description: "Высокоточная обработка валов, осей и деталей вращения"
     },
     {
-      image: "/img/cbaae6ae-55f4-4145-823e-559104a59ef2.jpg", 
-      title: "Готовые изделия",
-      description: "Высокоточные детали из различных металлов"
+      image: "/img/9b55fc99-ffb0-45bf-b1f4-abad178fbb63.jpg", 
+      title: "Сверлильные работы",
+      description: "Профессиональное сверление отверстий любого диаметра"
     },
     {
-      image: "/img/4b54e848-3ba5-4fa9-8c91-81546ed2cad5.jpg",
-      title: "Рабочий процесс",
-      description: "Профессиональная команда специалистов"
+      image: "/img/cadd4652-8786-4a5d-bbce-4a246e1c382a.jpg",
+      title: "Фрезерная обработка",
+      description: "Точная обработка плоскостей и сложных контуров"
     }
   ];
 
