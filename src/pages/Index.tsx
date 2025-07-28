@@ -213,7 +213,7 @@ export default function Index() {
                   </div>
                   <div>
                     <h3 className="text-white font-semibold text-lg mb-2">Телефон</h3>
-                    <p className="text-steel-300">+7 (495) 123-45-67</p>
+                    <p className="text-steel-300">+7 (932) 321-51-25</p>
                     <p className="text-steel-300">+7 (495) 123-45-68</p>
                   </div>
                 </div>
@@ -236,7 +236,7 @@ export default function Index() {
                   <div>
                     <h3 className="text-white font-semibold text-lg mb-2">Адрес</h3>
                     <p className="text-steel-300">г. Тюмень, ул. Широтная улица, 8а/256 </p>
-                    <p className="text-steel-300">Промышленная зона "Север"</p>
+                    <p className="text-steel-300"></p>
                   </div>
                 </div>
                 
