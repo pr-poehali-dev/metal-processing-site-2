@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Open+Sans:wght@400;600&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -97,5 +99,38 @@
 
   body {
     @apply bg-background text-foreground;
+    font-family: "Open Sans", sans-serif;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "Roboto", sans-serif;
+  }
+}
+
+@layer components {
+  .metal-gradient {
+    background: linear-gradient(135deg, #718096 0%, #4a5568 50%, #2d3748 100%);
+  }
+
+  .tech-border {
+    border: 1px solid #4a5568;
+    position: relative;
+  }
+
+  .tech-border::before {
+    content: "";
+    position: absolute;
+    top: -1px;
+    left: -1px;
+    right: -1px;
+    bottom: -1px;
+    background: linear-gradient(45deg, #718096, transparent, #718096);
+    border-radius: inherit;
+    z-index: -1;
   }
 }
