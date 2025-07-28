@@ -70,7 +70,7 @@ export default {
 					medium: '#4a5568', 
 					light: '#718096',
 					accent: '#e2e8f0',
-				}
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
