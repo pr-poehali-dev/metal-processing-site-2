@@ -247,7 +247,7 @@ export default function Index() {
                   <div>
                     <h3 className="text-white font-semibold text-lg mb-2">Режим работы</h3>
                     <p className="text-steel-300">Пн-Пт: 9:00 - 18:00</p>
-                    <p className="text-steel-300">Сб: 9:00 - 15:00</p>
+                    <p className="text-steel-300">Сб: 10:00 - 15:00</p>
                   </div>
                 </div>
               </div>
