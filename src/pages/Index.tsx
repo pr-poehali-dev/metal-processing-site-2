@@ -324,9 +324,7 @@ export default function Index() {
           </div>
           
           <div className="border-t border-steel-700 mt-8 pt-8 text-center">
-            <p className="text-steel-400">
-              © 2024 МеталлОбработка. Все права защищены.
-            </p>
+            <p className="text-steel-400">© 2025 МеталлОбработка. Все права защищены.</p>
           </div>
         </div>
       </footer>
