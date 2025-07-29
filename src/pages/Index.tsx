@@ -317,7 +317,7 @@ export default function Index() {
               <h4 className="text-white font-semibold mb-4">Контакты</h4>
               <ul className="space-y-2 text-steel-400">
                 <li>+7 (932) 321-51-25</li>
-                <li>info@metalworks.ru</li>
+                <li>ipgalios@mail.ru</li>
                 <li>г. Тюмень, ул. Широтная улица, 8а/256</li>
               </ul>
             </div>
